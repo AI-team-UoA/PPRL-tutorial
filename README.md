@@ -11,15 +11,8 @@ Welcome to the official repository for our EDBT 2026 tutorial! This repository c
 
 Below you will find the frameworks covered in this tutorial. Click on any of the folders to access the specific Jupyter Notebooks, setup instructions, and practical examples for each tool:
 
-* 🔗 **[privJedAI](./privJedAI/)** * 🔗 **[pprl-toolkit](./pprl-toolkit/)** * 🔗 **[linkja](./linkja/)** * 🔗 **[anonlink](./anonlink/)** * 🔗 **[AMPPERE](./AMPPERE/)** * 🔗 **[PRIMAT](./PRIMAT/)** *(Note: Each folder contains its own dedicated README and a starter Jupyter Notebook.)*
+* 🔗 **[privJedAI](./privJedAI/)** * 🔗 **[pprl-toolkit](./pprl-toolkit/)** * 🔗 **[linkja](./linkja/)** * 🔗 **[anonlink](./anonlink/)** * 🔗 **[AMPPERE](./AMPPERE/)** * 🔗 **[PRIMAT](./PRIMAT/)** *(Note: Each folder contains its own dedicated README.)*
 
-## 📋 General Prerequisites
-
-While some toolkits may have specific dependencies, you will generally need the following baseline setup to run the notebooks in this repository:
-
-* 🐍 **Python:** Version `> 3.10`
-* 📓 **Environment:** Jupyter Notebook
-* 📦 **Package Manager:** `pip` for installing the required libraries.
 
 ## 🤝 Acknowledgments
 

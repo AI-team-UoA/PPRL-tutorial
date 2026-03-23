@@ -1,10 +1,14 @@
-# AMPPERE Tutorial (EDBT 2026)
+# 📚 Tutorial: [AMPPERE](https://github.com/usc-isi-i2/amppere)
 
-This repository contains the tutorial for installing and running [AMPPERE](https://github.com/usc-isi-i2/amppere) as presented at EDBT 2026.
+> 📍 **EDBT 2026 | Tampere, Finland**
+**Privacy-Preserving Record Linkage:
+Past, Present and Yet-to-Come** \
+L. Stetsikas, D. Karapiperis, G. Papadakis, M. Koubarakis \
+Presenter: Lefteris Stetsikas 📧 istetsikas@di.uoa.gr
 
 AMPPERE focuses on secure, privacy-preserving record linkage using Homomorphic Encryption.
 
-## Prerequisites
+## 📋 Prerequisites
 
 Before you begin, ensure your system has the following dependencies installed:
 * **CMake**
@@ -108,3 +112,10 @@ jaccard similarity score: 0
 ...
 
 ```
+
+
+This work was supported by the [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) project [Recitals](https://recitals-project.eu/index.html) (Grant No.101168490).
+
+
+![alt text](/images/image.png)
+

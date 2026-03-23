@@ -113,6 +113,7 @@ jaccard similarity score: 0
 
 ```
 
+## 🤝 Acknowledgments
 
 This work was supported by the [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) project [Recitals](https://recitals-project.eu/index.html) (Grant No.101168490).
 

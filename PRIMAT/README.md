@@ -82,6 +82,9 @@ Finally, run the batch matching process. (In the example below, 0.6 represents t
 mvn clean compile exec:java -Dexec.mainClass="BatchMatching" -Dexec.args="abt_enc.csv buy_enc.csv 0.6 1064
 ```
 
+## 🤝 Acknowledgments
+
+
 This work was supported by the [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) project [Recitals](https://recitals-project.eu/index.html) (Grant No.101168490).
 
 

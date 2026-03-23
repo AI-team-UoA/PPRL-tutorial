@@ -2,3 +2,6 @@ AMPPERE/palisade/build/
 pprl_toolkit/
 PRIMAT/target/
 PRIMAT/*.csv
+privjedai/*.pkl
+linkja/linkja_py/*.py
+linkja/linkja_py/*.csv

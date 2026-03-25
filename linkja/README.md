@@ -11,20 +11,6 @@ Presenter: Lefteris Stetsikas 📧 istetsikas@di.uoa.gr
 
 [**Linkja-Docker**](https://github.com/linkja/linkja-docker) --> Easiest way to run Linkja, however source code of Linkja and Docker Implementation throw Core Dump at the encoding phase.
 
-## 📋 Prerequisites
-
-Please ensure you have the following set up before getting started:
-
-* 🐍 **Python:** Version `> 3.10`
-* 📓 **Environment:** Jupyter Notebook
-* 📦 **PIP:** pip to install the requirements
-
----
-
-## 🚀 You're All Set!
-You are now ready to launch and run our Jupyter Notebook
-
-👉 **[Open linkja.ipynb](linkja_py/linkja.ipynb)**
 ## 🤝 Acknowledgments
 
 

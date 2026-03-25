@@ -7,10 +7,7 @@ L. Stetsikas, D. Karapiperis, G. Papadakis, M. Koubarakis \
 Presenter: Lefteris Stetsikas 📧 istetsikas@di.uoa.gr
 
 
-For this tutorial we will use the code that was sent to us. That is linkja_py.
-The source code will not be shared.
-
-## Alternative of Linkja-py
+## Linkja-Docker
 
 [**Linkja-Docker**](https://github.com/linkja/linkja-docker) --> Easiest way to run Linkja, however source code of Linkja and Docker Implementation throw Core Dump at the encoding phase.
 

@@ -5,6 +5,14 @@
 L. Stetsikas, D. Karapiperis, G. Papadakis, M. Koubarakis \
 Presenter: Lefteris Stetsikas 📧 istetsikas@di.uoa.gr
 
+[![Documentation Status](https://readthedocs.org/projects/privjedai/badge/?version=latest)](https://privjedai.rtfd.io)
+
+### 📚 [Read the Official Documentation](https://privjedai.rtfd.io)
+*Check out our Read the Docs page for publications, tutorials, and quickstart guides!*
+
+---
+
+
 Welcome to the official repository for our EDBT 2026 tutorial! This repository contains a comprehensive collection of hands-on tutorials for various state-of-the-art Privacy-Preserving Record Linkage (PPRL) frameworks.
 
 ## 🧰 Explore the Toolkits

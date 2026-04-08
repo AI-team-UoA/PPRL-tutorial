@@ -8,6 +8,7 @@ Presenter: Lefteris Stetsikas 📧 istetsikas@di.uoa.gr
 [![Documentation Status](https://readthedocs.org/projects/privjedai/badge/?version=latest)](https://privjedai.rtfd.io)
 
 ### 📚 [Read the Official Documentation](https://privjedai.rtfd.io)
+### 📚 [EDBT 2026 Publcation](https://privjedai.readthedocs.io/en/latest/pages/edbt2026.html)
 *Check out our Read the Docs page for publications, tutorials, and quickstart guides!*
 
 ---
